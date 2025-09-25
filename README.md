@@ -291,7 +291,7 @@ Uma plataforma que combina **tradição jurídica** com **inovação tecnológic
 
 [![Contribuir](https://img.shields.io/badge/🚀%20Contribuir%20Agora-success?style=for-the-badge)](CONTRIBUTING.md)
 [![Documentação](https://img.shields.io/badge/📖%20Ver%20Docs-blue?style=for-the-badge)](docs/)
-[![Contato](https://img.shields.io/badge/💬%20Contato-orange?style=for-the-badge)](mailto:contato@forattorney.com)
+[![Contato](https://img.shields.io/badge/💬%20Contato-orange?style=for-the-badge)](mailto:f2sites@gmail.com)
 
 </div>
 
